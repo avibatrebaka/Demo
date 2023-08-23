@@ -1,0 +1,11 @@
+•	Setup/Managing Linux Servers on Amazon (EC2,EBS,SSL,Secuity Groups, RDS and IAM )
+•	Installed and Setup Web Servers ( Apache and Tomcat)  in Linux 
+•	Creating /Managing AMI/Snapshots/Volumes, Upgrades/Downgrade AWS Resources
+•	 Configured the Storage on S3 Buckets 
+•	Experience Working with IAM in order to Create new Accounts ,Roles, and Groups 
+•	Experience in long running applications Amazon 
+•	Experience in Monitoring on EC2,EBS,ELB, and RDS using Cloud Watch 
+•	Experience with AWS and Cloud Management, Configuration Management, Build, Deploy.
+•	Install and Configure VMware Esx, Esxi  
+•	Installed and Setup GIT/Repository at the client side
+•	  
